@@ -343,7 +343,7 @@ corrispondente versione cloud-based realizzata dal medesimo produttore o
 con soluzioni equivalenti o migliorative proposte da nuovi soggetti.
 
 La verifica di tali alternative può essere fatta sul catalogo dei
-servizi cloud qualificati da AGID `(Cloud Marketplace) <https://catalogocloud.agid.gov.it/>`__, la piattaforma
+servizi cloud qualificati da ACN `(Cloud Marketplace) <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud>`__, la piattaforma
 che espone i servizi e le infrastrutture qualificate.
 
 All'interno del Cloud Marketplace è possibile ricercare i servizi e
@@ -352,7 +352,7 @@ tecniche, il modello di costo e i livelli di servizio dichiarati dal
 fornitore in sede di qualificazione.
 
 A decorrere dal 1 aprile 2019, le pubbliche amministrazioni potranno
-acquisire esclusivamente servizi IaaS, PaaS e SaaS qualificati da AgID e
+acquisire esclusivamente servizi IaaS, PaaS e SaaS qualificati da ACN e
 pubblicati nel cloud Marketplace.
 
 4.1.4 Trasferimento di host o Re-host

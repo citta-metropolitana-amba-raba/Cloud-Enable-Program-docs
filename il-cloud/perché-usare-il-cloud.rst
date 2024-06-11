@@ -184,8 +184,8 @@ tecnologie e controlli che rafforzano la sicurezza complessiva, grazie
 alla protezione dei dati (che possono essere criptati con i più alti
 livelli di sicurezza del mercato), dell’applicazione e dell’
 infrastruttura da minacce potenziali. I CSP
-qualificati da AGID e consultabili sul `Cloud
-Marketplace <https://catalogocloud.agid.gov.it/>`__
+qualificati da ACN e consultabili sul `Cloud
+Marketplace <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud>`__
 hanno infrastrutture e servizi sviluppati secondo criteri di
 affidabilità e sicurezza considerati necessari per i servizi digitali
 della PA. Ad esempio, i data center dei CSP hanno tutti la
@@ -241,9 +241,9 @@ approfondimento si veda il capitolo 5.4.3), lontani dalla struttura
 monolitica degli applicativi legacy. Questo rende gli applicativi molto
 più adeguati alle necessità di interoperabilità e comunicazione tra
 diversi servizi (e tra le rispettive basi di dati). Le soluzioni SaaS
-dei cloud service provider (CSP) qualificati da AGID e consultabili sul
+dei cloud service provider (CSP) qualificati da ACN e consultabili sul
 `Cloud
-Marketplace <https://catalogocloud.agid.gov.it/>`__,
+Marketplace <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud>`__,
 ad esempio, offrono tutte uno strato di interoperabilità fruibile
 tramite API. Questo permette di avere maggiore flessibilità nel provare
 nuovi servizi o apportare modifiche.

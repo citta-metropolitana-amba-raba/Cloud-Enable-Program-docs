@@ -57,8 +57,8 @@ categorie:
      customizzabile ma uguale per tutti. Un approccio, quest’ultimo, che
      garantisce il raggiungimento più facile di economie di scala da
      parte del fornitore.
-   | Consulta il `catalogo dei servizi SaaS qualificati da AgID
-     <https://catalogocloud.agid.gov.it/show/all?searchCategory=SaaS>`__.
+   | Consulta il `catalogo dei servizi SaaS qualificati da ACN
+     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?denominazione=saas>`__.
 
 -  | **platform-as-a-service** (**PaaS**)\ **,** ovvero *piattaforma
      distribuita come servizio*: si tratta di servizi cloud che
@@ -70,8 +70,8 @@ categorie:
      concentrandosi sulle funzionalità dell’applicativo, lasciando al
      fornitore del servizio aspetti come la configurazione, la gestione
      dell’ambiente di esecuzione dell’archiviazione o dei database.
-   | Consulta il `catalogo dei servizi PaaS qualificati da AgID
-     <https://catalogocloud.agid.gov.it/show/all?searchCategory=PaaS>`__.
+   | Consulta il `catalogo dei servizi PaaS qualificati da ACN
+     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?denominazione=paas>`__.
 
 
 -  | **infrastructure-as-a-service** (**IaaS**), ovvero *infrastruttura
@@ -82,8 +82,8 @@ categorie:
      (`Application Programming
      Interfaces <https://it.wikipedia.org/wiki/Application_programming_interface>`__)
      con pagamento in base al consumo.
-   | Consulta il `catalogo dei servizi IaaS qualificati da AgID
-     <https://catalogocloud.agid.gov.it/show/all?searchCategory=IaaS>`__.
+   | Consulta il `catalogo dei servizi IaaS qualificati da ACN
+     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?denominazione=iaas>`__.
 
 Vi sono inoltre diversi modelli di dispiegamento dei servizi:
 
@@ -157,10 +157,10 @@ PA <https://docs.italia.it/italia/piano-triennale-ict/cloud-docs/it/stabile/inde
 consente di mitigare tale rischio, qualificando servizi e infrastrutture
 cloud secondo specifici parametri di sicurezza e affidabilità idonei per
 le esigenze della pubbliche amministrazioni. Il Cloud della PA si
-compone di infrastrutture e servizi, qualificati da AGID sulla base di
+compone di infrastrutture e servizi, qualificati da ACN sulla base di
 un insieme minimo di requisiti, che possono essere confrontati e
 consultati sul `Cloud
-Marketplace <https://catalogocloud.agid.gov.it/>`__.
+Marketplace <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud>`__.
 
 Il sito `cloud.italia.it <https://cloud.italia.it>`__ contiene un
 `approfondimento sulla qualificazione dei servizi cloud

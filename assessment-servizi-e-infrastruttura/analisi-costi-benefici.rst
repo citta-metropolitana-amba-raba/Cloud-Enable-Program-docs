@@ -150,7 +150,7 @@ demandata ai calcolatori esposti dai CSP,
 confrontare i valori ed i riparti ritornati con quelli preventivamente
 stimati può essere utile.
 
-Utilizzare i calcolatori dei prezzi dei CSP qualificati da AgID nel
+Utilizzare i calcolatori dei prezzi dei CSP qualificati da ACN nel
 Cloud Marketplace, laddove disponibili.
 
 Nel caso più semplice di uno IaaS, dove basta approvvigionarsi di server

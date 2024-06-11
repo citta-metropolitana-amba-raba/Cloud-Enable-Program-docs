@@ -6,7 +6,7 @@ First” nel contesto del `programma di abilitazione al Cloud delle PA
 <https://cloud.italia.it/programma-abilitazione-cloud/>`__, prevede che
 le pubbliche amministrazioni che si apprestano a migrare i propri
 applicativi in cloud valutino in prima istanza la presenza di servizi
-SaaS nel catalogo dei servizi cloud qualificati da AGID (Cloud
+SaaS nel catalogo dei servizi cloud qualificati da ACN (Cloud
 Marketplace).
 
 Lo sviluppo del mercato dei prodotti software verso la modalità SaaS,
@@ -20,7 +20,7 @@ possono godere dei benefici del cloud da subito con ridotti costi
 iniziali.
 
 All'interno del `Cloud
-Marketplace <https://catalogocloud.agid.gov.it/>`__
+Marketplace <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud>`__
 è possibile ricercare i servizi SaaS qualificati e visualizzarne la
 scheda tecnica che mette in evidenza le caratteristiche tecniche, il
 modello di costo e i livelli di servizio dichiarati dal fornitore in

@@ -23,7 +23,7 @@ trasformazione:
    nell’ambito di nuove iniziative da avviare
 
 -  il **modello Cloud della PA**: il modello strategico che si compone
-   di infrastrutture e servizi qualificati da AgID sulla base di un
+   di infrastrutture e servizi qualificati da ACN sulla base di un
    insieme di requisiti volti a garantire elevati standard di qualità
    per la PA
 
