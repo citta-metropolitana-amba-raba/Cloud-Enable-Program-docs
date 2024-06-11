@@ -1,5 +1,5 @@
 Premessa
-================
+========
 
 La `strategia Cloud della PA
 <https://cloud.italia.it/strategia-cloud-pa/>`__ è nata per favorire
@@ -30,7 +30,7 @@ trasformazione:
 -  Il **Cloud Enablement Program**: il programma che abilita
    un’organizzazione a migrare il proprio patrimonio IT esistente
    (infrastrutture e applicazioni) utilizzando infrastrutture e servizi
-   cloud all’interno del modello Cloud della PA. . Nell’ambito del
+   cloud all’interno del modello Cloud della PA. Nell’ambito del
    programma è stato definito un framework, costituito dall’insieme di
    unità organizzative (unità di controllo, unità di esecuzione e centri
    di competenza), risorse, strategie operative e il Cloud Enablement
