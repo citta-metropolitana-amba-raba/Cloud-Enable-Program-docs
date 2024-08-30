@@ -279,7 +279,7 @@ questo motivo, consigliamo di adottare le seguenti buone pratiche:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `I criteri per la qualificazione dei Cloud Service Provider per la
-PA <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/181151234430O__OCircolare+2-2018_Criteri+per+la+qualificazione+dei+Cloud+Service+Provider+per+la+PA.pdf>`__,
+PA <https://www.acn.gov.it/portale/documents/d/guest/regolamentocloud>`__,
 richiedono esplicitamente ai CSP di garantire l'assenza di ogni tipo
 lock-in dell’Acquirente nei confronti del Fornitore Cloud. È bene però
 integrare questo primo livello di mitigazione del rischio considerando

@@ -13,13 +13,14 @@ soddisfatti.
 
 | Per redigere uno SLA per la fornitura di servizi cloud, è importante
   tenere in considerazione diversi aspetti che possono essere adeguati
-  ai modelli di fruizione SaaS, PaaS e IaaS.
-| I servizi qualificati da AgID dovranno rispondere a tutta una serie di
-  requisiti e SLA come definito nella `Circolare n.2 del 9 Aprile
-  2018 <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/181151234430O__OCircolare+2-2018_Criteri+per+la+qualificazione+dei+Cloud+Service+Provider+per+la+PA.pdf>`__
-  per i servizi IaaS e PaaS e nella `Circolare n.3 del 9 Aprile
-  2018 <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/181151237210O__OCircolare+3-2018_Criteri+per+la+qualificazione+di+servizi+SaaS+per+il+Cloud+della+PA+%28002%29.pdf>`__
-  per i servizi SaaS. Di seguito riportiamo una più generica lista di
+  ai modelli di fruizione SaaS, PaaS e IaaS. | I servizi qualificati da
+  ACN dovranno rispondere a tutta una serie di requisiti e SLA come
+  definito nel `Regolamento Cloud, adottato da ACN con Decreto
+  Direttoriale n. 21007/24 del 27 giugno 2024 e applicabile dal 1 agosto
+  2024
+  <https://www.acn.gov.it/portale/documents/d/guest/regolamentocloud>`__.
+
+  Di seguito riportiamo una più generica lista di
   metriche da tenere in sempre in considerazione nella definizione degli
   SLA per i servizi in cloud:
 

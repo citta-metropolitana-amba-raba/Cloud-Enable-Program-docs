@@ -58,7 +58,7 @@ categorie:
      garantisce il raggiungimento più facile di economie di scala da
      parte del fornitore.
    | Consulta il `catalogo dei servizi SaaS qualificati da ACN
-     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?denominazione=saas>`__.
+     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?categoria=112891>`__.
 
 -  | **platform-as-a-service** (**PaaS**)\ **,** ovvero *piattaforma
      distribuita come servizio*: si tratta di servizi cloud che
@@ -71,7 +71,7 @@ categorie:
      fornitore del servizio aspetti come la configurazione, la gestione
      dell’ambiente di esecuzione dell’archiviazione o dei database.
    | Consulta il `catalogo dei servizi PaaS qualificati da ACN
-     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?denominazione=paas>`__.
+     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?categoria=112888>`__.
 
 
 -  | **infrastructure-as-a-service** (**IaaS**), ovvero *infrastruttura
@@ -83,7 +83,7 @@ categorie:
      Interfaces <https://it.wikipedia.org/wiki/Application_programming_interface>`__)
      con pagamento in base al consumo.
    | Consulta il `catalogo dei servizi IaaS qualificati da ACN
-     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?denominazione=iaas>`__.
+     <https://www.acn.gov.it/portale/catalogo-delle-infrastrutture-digitali-e-dei-servizi-cloud?categoria=112885>`__.
 
 Vi sono inoltre diversi modelli di dispiegamento dei servizi:
 
